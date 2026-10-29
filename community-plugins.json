@@ -37901,7 +37901,7 @@
     "id": "auto-beautiful-mermaid",
     "name": "Auto Beautiful Mermaid",
     "author": "rxdxxxx",
-    "description": "Smart-routes Mermaid diagrams: beautiful-mermaid for its 6 supported types, Obsidian's built-in engine for everything else. - This plugin has not been manually reviewed by Obsidian staff.",
+    "description": "Smart-routes Mermaid diagrams across beautiful-mermaid, pele, and the built-in engine. - This plugin has not been manually reviewed by Obsidian staff.",
     "repo": "rxdxxxx/obsidian-auto-beautiful-mermaid"
   },
   {
